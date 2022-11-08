@@ -1,0 +1,8 @@
+{
+    "name": "Avo Simple CI Workflow",
+    "description": "Avocado Smash CI starter workflow.",
+    "filePatterns": [
+        "package.json$",
+        ".*\\.md$"
+    ]
+}
