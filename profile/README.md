@@ -1,12 +1,10 @@
-## Hi there 👋
+# Avocado Smash - A GitHub Organisation
+:octocat: Here we learn and experiment together :rocket: :bullettrain_front: :checkered_flag:
 
-<!--
+### List of repositories for `GitHub 101` and `demos`
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. GitHub Introduction to Actions Syntax https://github.com/avocadosmash/github-intro-to-actions-demos
+1. GitHub Actions Exercises https://github.com/avocadosmash/github-intro-actions-exercises
+1. Apply DevOps practices in Actions https://github.com/avocadosmash/github-applying-actions-demo
+1. GHAS demo with Juice Shop repo https://github.com/avocadosmash/security-demo-juice
+1. GHAS demo with CVE repo https://github.com/avocadosmash/security-demo-cve
