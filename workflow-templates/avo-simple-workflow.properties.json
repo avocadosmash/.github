@@ -4,5 +4,7 @@
     "filePatterns": [
         "package.json$",
         ".*\\.md$"
-    ]
+    ],
+    "categories": ["Continuous integration"],
+    "labels": ["preview"]
 }
